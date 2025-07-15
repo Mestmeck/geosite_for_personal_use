@@ -1,3 +1,7 @@
+# NAME: reject_domain
+# AUTHOR: Mestmeck
+# REPO: https://github.com/Mestmeck/geosite_for_personal_use
+
 # > 屏蔽微信热更新
 DOMAIN,dl.wechat.com
 DOMAIN,dldir1.qq.com
